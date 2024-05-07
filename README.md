@@ -1,2 +1,2 @@
-# Tabuada
- Tabuada até *10
+# Tabuada simples
+ Tabuada até 10
